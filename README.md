@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aalok Singh Tanwar</h1>
-<h3 align="center">Computer Science Student | Learning new things everyday</h3>
+<h3 align="center">Software Dev | Learning new things everyday</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
