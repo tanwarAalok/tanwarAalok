@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aalok Tanwar</h1>
 <h3 align="center">A Curious Developer trying different things</h3>
 
-- 🚀 I’m currently exploring **PySpark & Big Data Technologies**
+- 🚀 I’m currently exploring **Java Springboot**
 - 💡 Always eager to learn and implement new things
 - 📫 Reach me at **aaloktanwar88@gmail.com**
 
